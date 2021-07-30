@@ -1,0 +1,1 @@
+Até o momento o curso está bastante interessante. Relambrando o uso do Git, porém agora entendendo de uma maneira melhor.
